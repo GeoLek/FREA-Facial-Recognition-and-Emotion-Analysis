@@ -10,7 +10,7 @@ Natural Human Face Images for Emotion Recognition (https://www.kaggle.com/datase
 Facial Expressions Training Data (https://www.kaggle.com/datasets/noamsegal/affectnet-training-data)
 Young AffectNet HQ (https://www.kaggle.com/datasets/vfomenko/young-affectnet-hq)
 
-#Processing
+# Processing
 All iamges were resized to 224x224 dimensions. I used both color & grayscale 3-channel duplicated images or grayscale (1-channel) images.
 
 # LICENSE
