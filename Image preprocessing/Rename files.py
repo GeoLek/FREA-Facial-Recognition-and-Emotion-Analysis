@@ -3,7 +3,7 @@
 import os
 
 
-def rename_files(folder_path, prefix="happy"): #prefix of the word you want to be renamed to
+def rename_files(folder_path, prefix="surprise"): #prefix of the word you want to be renamed to
     # Initialize a counter for the new file names
     index = 1
 
@@ -37,5 +37,5 @@ def rename_files(folder_path, prefix="happy"): #prefix of the word you want to b
         # Increment the index for the next iteration
         index += 1
 # Example usage
-folder_path = '/home/orion/Geo/Projects/FREA-Facial-Recognition-and-Emotion-Analysis/Work-data/happy'  # Change this to your folder's path
+folder_path = '/home/orion/Geo/Projects/FREA-Facial-Recognition-and-Emotion-Analysis/Work-data/surprise'  # Change this to your folder's path
 rename_files(folder_path)
