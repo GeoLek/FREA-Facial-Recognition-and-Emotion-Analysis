@@ -13,6 +13,9 @@ Young AffectNet HQ (https://www.kaggle.com/datasets/vfomenko/young-affectnet-hq)
 # Processing
 All images were resized to 224x224 dimensions. I used both color & grayscale 3-channel duplicated images or grayscale (1-channel) images. The emotions I classified are: Anger, Contempt, Disgust, Fear, Happy, Sad, Neutral, Surprise
 
+# My Dataset
+My working grayscale & processed dataset can be found on Kaggle: (https://www.kaggle.com/datasets/geolek/grayscale-face-images)
+
 
 # LICENSE
 This project is licensed under the Apache License - see the [LICENSE](https://github.com/GeoLek/FREA-Facial-Recognition-and-Emotion-Analysis/blob/main/LICENSE) file for details.
